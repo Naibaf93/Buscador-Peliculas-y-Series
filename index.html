@@ -3,9 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Buscador Peliculas y Series</title>
 </head>
 <body>
-    
+    <h1>Buscador</h1>
+    <hr>
+    <div class="bloque">
+        Seleccione una opción:
+        <select id="miSelector">
+            <option value="peliculas.json">Peliculas</option>
+            <option value="series.json">Series</option>
+        </select>
+    </div>
+
+    <div class="bloque">
+        <input type="text" id="miInput" placeholder="Ingrese para buscar...">
+        <button id="miBoton">Buscar</button>
+    </div>
+
+    <div class="bloque">
+        <ul id="miListado">
+            
+        </ul>
+    </div>
+    <script src="js/app.js"></script>
 </body>
 </html>
