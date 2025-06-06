@@ -9,7 +9,7 @@ let archivo = 'peliculas.json';
 //Escuchadores de eventos
 selector.addEventListener('change', cambiarArchivo);
 selector.addEventListener('cambioModo', mensajeModo);
-
+input.addEventListener('keydown', verificarInput);
 
 // Funciones
 function cambiarArchivo(){
@@ -19,4 +19,10 @@ function cambiarArchivo(){
 
 function mensajeModo(){
     alert("el archivo de busqueda es " + selector.value);
+}
+
+function verificarInput(e){
+    if((e.keyCode < 65 || e.keyCode > 90) && e.keyCode != 32 && e.keyCode != 8){
+        e.preventDefault();
+    }
 }
