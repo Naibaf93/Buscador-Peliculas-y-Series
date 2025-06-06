@@ -5,34 +5,41 @@ body{
 
 h1{
     color: darkseagreen;
+    font-size: 50px;
 }
 
 input{
     height: 30px;
     padding: 6px 12px;
-    font-size: 14px;
+    font-size: 20px;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
 
 select{
-    height: 30px;
-    padding: 6px 12px;
-    font-size: 14px;
+    height: 40px;
+    padding: 10px 30px;
+    font-size: 16px;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
 
 button{
     height: 45px;
-    padding: 6px 12px;
-    font-size: 14px;
+    padding: 10px 50px;
+    font-size: 20px;
     border: 1px solid #ccc;
     border-radius: 4PX;
     background-color: darkseagreen;
     color: white;
     cursor: pointer;
+    transition: all 300ms ease-in-out;
 }
+
+button:hover{
+    background-color: darkgreen;
+}
+
 
 ul  {
     list-style: none;
