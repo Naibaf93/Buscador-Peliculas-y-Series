@@ -18,7 +18,8 @@
         { "nombre": "BOHEMIAN RHAPSODY", "sinopsis": "Londres, 1970. El joven Farrokh, Freddie para los amigos, trabaja en el aeropuerto, estudia diseño gráfico y escribe canciones. Un día, tras escuchar al grupo Smile en un bar, se ofrece como cantante de la banda al enterarse de que se han quedado sin vocalista. Ninguno de ellos se imaginaba por aquel entonces que se convertirían en los mismísimos Queen."},
         { "nombre": "WONKA", "sinopsis": "Armado únicamente con muchos sueños y ganas de aventura, el joven chocolatero Willy Wonka conoce a los oompa-loompas y se dispone a cambiar el mundo."},
         { "nombre": "CHARLIE AND THE CHOCOLATE FACTORY", "sinopsis": "Charlie Bucket es un niño proveniente de una familia pobre que pasa la mayor parte de su tiempo soñando sobre el chocolate que rara vez se puede permitir comer. Las cosas cambian cuando Willy Wonka, el dueño del famoso imperio Wonka Chocolates, anuncia la celebración de un concurso en el que cinco billetes dorados han sido escondidos en cinco tabletas de chocolate. Charlie será uno de los cinco afortunados en encontrar uno de los billetes que dan acceso a un tour por la fábrica de chocolate."},
-        { "nombre": "THE DIRT", "sinopsis": "Una historia de fama, sexo, adicciones, escándalos y rock 'n roll. La cruda autobiografía de Mötley Crüe cobra vida."}        
+        { "nombre": "THE DIRT", "sinopsis": "Una historia de fama, sexo, adicciones, escándalos y rock 'n roll. La cruda autobiografía de Mötley Crüe cobra vida."},        
+        { "nombre": "STAR WARS EPISODIO I LA AMENAZA FANTASMA", "sinopsis": "Obi-Wan Kenobi es un joven aprendiz caballero Jedi bajo la tutela de Qui-Gon Jinn; Anakin Skywalker, quien después será padre de Luke Skywalker y se convertirá en Darth Vader, solamente es un niño de 9 años. Cuando la Federación de Comercio corta todas las rutas al planeta Naboo, Qui-Gon y Obi-Wan son asignados para solucionar el problema."}        
         
     ]
 }
