@@ -31,7 +31,8 @@
         { "nombre": "STAR WARS EPISODIO IX EL ASCENSO DE SKYWALKER", "sinopsis": "La Resistencia sobreviviente se enfrenta a la Primera Orden, y Rey, Finn, Poe y el resto de los héroes encararán nuevos retos y una batalla final con la sabiduría de las generaciones anteriores."},        
         { "nombre": "TRON: EL LEGADO", "sinopsis": "Cuando Sam Flynn, un experto programador de 27 años, investiga la desaparición de su padre, se encuentra un mundo paralelo donde su padre ha vivido durante 25 años. Padre e hijo emprenden un viaje a vida o muerte a través de un universo cibernético."},        
         { "nombre": "TRON: ARES", "sinopsis": "Cuenta la historia de Ares, un programa altamente sofisticado que es enviado desde el mundo digital al mundo real en una misión peligrosa, marcando el primer encuentro de la humanidad con seres de inteligencia artificial."},        
-        { "nombre": "JOKER", "sinopsis": "Arthur Fleck adora hacer reír a la gente, pero su carrera como comediante es un fracaso. El repudio social, la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y, finalmente, cae en el mundo del crimen."}        
+        { "nombre": "JOKER", "sinopsis": "Arthur Fleck adora hacer reír a la gente, pero su carrera como comediante es un fracaso. El repudio social, la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y, finalmente, cae en el mundo del crimen."},        
+        { "nombre": "JOKER 2 FOLIE A DEUX", "sinopsis": "Arthur Fleck, ingresado en Arkham tras sus crímenes cometidos como Joker, descubre el amor y la música de la mano de una interna llamada Lee. Juntos se embarcarán en un viaje catártico en el que resucitarán al personaje de Joker."}        
 
     ]
 }
