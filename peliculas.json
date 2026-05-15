@@ -59,7 +59,8 @@
         { "nombre": "THE DEVIL WEARS PRADA 2", "sinopsis": "Sigue a una veterana Miranda Priestly lidiando con la decadencia de la revista Runway en la era digital. Obligada a buscar financiación, Miranda enfrenta un cambio de roles al acudir a su exasistente Emily Charlton, ahora una poderosa ejecutiva de lujo."},        
         { "nombre": "BEDAZZLED", "sinopsis": "Al diablo con el diablo, Elliot Richards, un hombre solitario e inepto socialmente, vende su alma a un seductor Diablo (Elizabeth Hurley) a cambio de siete deseos para conquistar a su compañera de trabajo. Cada deseo es concedido con giros irónicos y perversos, enseñándole que la felicidad no depende de la perfección."},        
         { "nombre": "THE WHALE", "sinopsis": "Un profesor de inglés solitario que vive con obesidad grave intenta volver a conectarse con su hija adolescente distanciada para tener una última oportunidad de redención."},        
-        { "nombre": "THE MUMMY", "sinopsis": "Un estadounidense trabajando para la Legión Extranjera Francesa en una excavación arqueológica en la antigua ciudad de Hamunaptra despierta accidentalmente a una momia que causa estragos en él y en su tripulación."}        
+        { "nombre": "THE MUMMY", "sinopsis": "Un estadounidense trabajando para la Legión Extranjera Francesa en una excavación arqueológica en la antigua ciudad de Hamunaptra despierta accidentalmente a una momia que causa estragos en él y en su tripulación."},        
+        { "nombre": "THE MUMMY RETURNS", "sinopsis": "El cuerpo momificado de Imhotep es enviado a un museo en Londres donde de nuevo despierta y despliega su ola de terror."}        
     
     ]
 }
