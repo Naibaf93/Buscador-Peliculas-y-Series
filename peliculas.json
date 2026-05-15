@@ -60,7 +60,8 @@
         { "nombre": "BEDAZZLED", "sinopsis": "Al diablo con el diablo, Elliot Richards, un hombre solitario e inepto socialmente, vende su alma a un seductor Diablo (Elizabeth Hurley) a cambio de siete deseos para conquistar a su compañera de trabajo. Cada deseo es concedido con giros irónicos y perversos, enseñándole que la felicidad no depende de la perfección."},        
         { "nombre": "THE WHALE", "sinopsis": "Un profesor de inglés solitario que vive con obesidad grave intenta volver a conectarse con su hija adolescente distanciada para tener una última oportunidad de redención."},        
         { "nombre": "THE MUMMY", "sinopsis": "Un estadounidense trabajando para la Legión Extranjera Francesa en una excavación arqueológica en la antigua ciudad de Hamunaptra despierta accidentalmente a una momia que causa estragos en él y en su tripulación."},        
-        { "nombre": "THE MUMMY RETURNS", "sinopsis": "El cuerpo momificado de Imhotep es enviado a un museo en Londres donde de nuevo despierta y despliega su ola de terror."}        
+        { "nombre": "THE MUMMY RETURNS", "sinopsis": "El cuerpo momificado de Imhotep es enviado a un museo en Londres donde de nuevo despierta y despliega su ola de terror."},        
+        { "nombre": "THE MUMMY: THE TOMB OF THE DRAGON EMPEROR", "sinopsis": "En el Lejano Oriente, el hijo de unos famosos luchadores de momias, descubre la momia del primer emperador de Qin, una entidad que cambia de forma a la maldición de una hechicera de hace siglos."}        
     
     ]
 }
